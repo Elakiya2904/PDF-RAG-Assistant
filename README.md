@@ -1,4 +1,3 @@
-# PDF-RAG-Assistant
 # 📄 PDF RAG Assistant
 
 PDF RAG Assistant is a lightweight Retrieval-Augmented Generation (RAG) system that allows users to upload any PDF document and instantly query its content using natural language.  
